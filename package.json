@@ -1,0 +1,26 @@
+{
+  "name": "roll-array",
+  "version": "1.0.0",
+  "description": "efficient inline array rolls",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbarry/roll-array.git"
+  },
+  "keywords": [
+    "array",
+    "roll"
+  ],
+  "author": "colinbarry <colinbarry@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinbarry/roll-array/issues"
+  },
+  "homepage": "https://github.com/colinbarry/roll-array#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
